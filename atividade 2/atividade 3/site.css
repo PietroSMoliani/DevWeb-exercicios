@@ -1,0 +1,66 @@
+.titulo-principal {
+    background-color: yellow;
+    color: white;
+    max-width: 600px;
+   margin: 0 auto;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 15px 10px gray;
+  }
+  css: /* Definindo estilo global */
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+  }
+  
+  /* Estilo do título principal */
+  .titulo-principal {
+      text-align: center;
+      color: #2c3e50;
+      padding: 20px;
+  }
+  
+  /* Estilo da tabela */
+  .cardapio {
+      width: 80%;
+      margin: 20px auto;
+      border-collapse: collapse;
+  }
+  
+  /* Cabeçalho da tabela */
+  .cabecalho {
+      background-color: #f5deb3; /* Cor de fundo bege */
+      font-weight: bold;
+  }
+  
+  .cabecalho th {
+      padding: 12px;
+      border: 1px solid #ddd;
+      text-align: left;
+  }
+  
+  /* Estilo das células da tabela */
+  .cardapio td {
+      padding: 10px;
+      border: 1px solid #ddd;
+  }
+  
+  /* Cor diferente para a coluna de preços */
+  .preco {
+      background-color: #f5deb3; /* Cor de fundo bege para preço */
+  }
+  
+  /* Rodapé da tabela */
+  .rodape {
+      background-color: #f5deb3; /* Cor de fundo bege */
+      font-weight: bold;
+  }
+  
+  .rodape td {
+      padding: 12px;
+      text-align: center;
+      font-size: 16px;
+  }

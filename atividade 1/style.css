@@ -1,0 +1,10 @@
+.titulo-principal {
+    background-color: yellow;
+    color:white;
+    max-width:1400px;
+    margin 0 auto;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 15px 10px orange;
+  }
